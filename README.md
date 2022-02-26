@@ -14,5 +14,5 @@ Description of the functionalities:
 - A user can configure (combination of any timers in any order) and execute a workout 
 
 # Link to project page 
-
+http://reem2411.github.io/Timers-project/
 
